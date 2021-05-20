@@ -90,4 +90,13 @@ font-size: 20px;
 } 
 .links:hover{
 background-color: crimson;
+} 
+a{
+text-decoration: none; 
+} 
+.article:hover{
+color: darkturquoise;
+} 
+html{
+scroll-behavior: smooth;
 }
